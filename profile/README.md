@@ -12,10 +12,10 @@ ___
 
 ## 📦 Our Projects
 
-### [PiCam-Connect](https://github.com/Tys0nat0r01/PiCam-Connect)
-A flexible and lightweight Raspberry Pi camera interface for real-time video streaming, image capture, and automation workflows.
+> ### [PiCam + PiCam Connect](https://github.com/Tys0nat0r01/PiCam-Connect)
+> An affordable, and easy to setup dashcam system that can be run on any Raspberry Pi and a Raspberry Pi-compatible camera.            
+> **View full documentation: [PiCam + PiCam-Connect Wiki](https://github.com/Tys0nat0r01/PiCam-Connect/wiki)**
 
-> View full documentation: [PiCam-Connect Wiki](https://github.com/Tys0nat0r01/PiCam-Connect/wiki)
 
 ### More Coming Soon...
 We’re actively developing new projects and tools — stay tuned!
