@@ -5,6 +5,8 @@ ___
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![CC License](https://img.shields.io/badge/Docs%20License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Follow on GitHub](https://img.shields.io/github/followers/Tys0nat0r01?label=Follow&style=social)](https://github.com/Tys0nat0r01)
+![Stars](https://img.shields.io/github/stars/Tys0nat0r01/PiCam-Connect?style=social)
+
 
 ___
 
