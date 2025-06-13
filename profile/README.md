@@ -12,9 +12,9 @@ ___
 
 ## 📦 Our Projects
 
-> ### [PiCam + PiCam Connect](https://github.com/Tys0nat0r01/PiCam-Connect)
+> ### [PiCam + PiCam Connect](https://github.com/MilesCoMedia/PiCam)
 > An affordable, and easy to setup dashcam system that can be run on any Raspberry Pi and a Raspberry Pi-compatible camera.            
-> **View full documentation: [PiCam + PiCam-Connect Wiki](https://github.com/Tys0nat0r01/PiCam-Connect/wiki)**
+> **View full documentation: [PiCam + PiCam-Connect Wiki](https://github.com/MilesCoMedia/PiCam/wiki)**
 
 
 ### More Coming Soon...
